@@ -417,3 +417,8 @@ Before you move on, make sure you can answer the following questions:
 [heroku rails deploying guide]: https://devcenter.heroku.com/articles/getting-started-with-rails6
 [troubleshooting guide on heroku]: https://devcenter.heroku.com/articles/getting-started-with-rails6#troubleshooting
 [postgres downloads page]: https://postgresapp.com/downloads.html
+
+
+# Video: Rails-React Deployment
+
+<iframe src="https://player.vimeo.com/video/609374456/?title=0&byline=0&portrait=0" width="640" height="360" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen; picture-in-picture"></iframe>
